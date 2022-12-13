@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.list-container {
+  list-style-type: none;
+}
+.title-date {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.para {
+  color: grey;
+}
